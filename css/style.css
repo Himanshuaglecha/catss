@@ -10,10 +10,7 @@ body   {
 
     background: #E5E5E5;
     background-image: url("bg.jpg");
-    background-size: 80% auto; /* Reduces image size while maintaining aspect ratio */
-    background-repeat: no-repeat; /* Prevents tiling */
-    background-position: center center; /* Centers the image */
-    background-attachment: fixed; /* Keeps the image fixed when scrolling */
+    
   
 }
 
